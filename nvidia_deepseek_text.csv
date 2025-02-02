@@ -1,0 +1,77 @@
+text,type
+"A Chinese company’s claim of a $5.6mn artificial intelligence breakthrough wiped almost $600bn from Nvidia’s market value on Monday, shattering Wall Street’s confidence that tech companies’ AI spending spree will continue and dealing an apparent blow to US tech leadership.",Sentence
+"Yet many in Silicon Valley believe the broad sell-off is an overreaction to DeepSeek’s latest model, which they argue could spur wider adoption and utility of AI by radically lowering the technology’s cost, sustaining demand for Nvidia’s chips.",Sentence
+"Pat Gelsinger, recently forced out as chief executive of Intel, was among those buying his former rival Nvidia’s stock on Monday.",Sentence
+"“The market reaction is wrong: lowering the cost of AI will expand the market,” he said in a LinkedIn post.",Sentence
+"“DeepSeek is an incredible piece of engineering that will usher in greater adoption of AI.”
+
+Nvidia became the world’s most valuable company last year as investors bet on Big Tech companies’ insatiable appetite for its powerful AI processors.",Sentence
+The chipmaker’s chief executive Jensen Huang has predicted $1tn worth of AI data centres will be built in the next few years.,Sentence
+"Underpinning that confidence was the concept of an AI “scaling law”, popularised by senior leaders at AI start-ups such as OpenAI and Anthropic, that suggested AI models got smarter as they were fed more data and computing resources.",Sentence
+"DeepSeek’s release of its highly capable R1 model — and the research paper explaining openly how it was made — seemed to break the scaling law’s spell, as its chatbot leapt to the top of the iPhone’s US App Store chart over the weekend.",Sentence
+"The Philadelphia Semiconductor index shed 9.2 per cent, its worst daily drop since March 2020.",Sentence
+Chinese tech champion Huawei has emerged as Nvidia’s primary competitor in China for inference chips.,Sentence
+"The Financial Times has previously reported that it has been working with AI companies, including DeepSeek, to adapt models trained on Nvidia GPUs to run inference on its Ascend chips.",Sentence
+“Huawei is getting better.,Sentence
+"They have an opening as the government is telling the big tech companies that they need to buy their chips and use them for inference,” said one semiconductor investor in Beijing.",Sentence
+"The announcement that triggered Monday’s stock market spasm over Nvidia came as the US moves to assert its leadership in AI over China, and as the biggest US tech companies prepare to report their latest earnings.",Sentence
+US President Donald Trump said DeepSeek “should be a wake-up call for our industries that we need to be laser focused on competing to win”.,Sentence
+"In December, DeepSeek released the V3 model, which it claimed was comparable to ones from OpenAI and Google, but trained it on a fraction of the budget with $5.6mn.",Sentence
+"The Chinese company said it used just 2,048 Nvidia chips, which could have been obtained without breaching US export controls that have throttled China’s access to US chipmakers’ latest products.",Sentence
+"Then, last week, it unveiled its latest R1 model, a “reasoning model” that is comparable to OpenAI’s o1.",Sentence
+"Further spooking investors, DeepSeek’s engineers were able to unlock greater performance by writing code without relying on Nvidia’s Cuda software platform, which is widely seen as crucial to the Silicon Valley chipmaker’s dominance of AI development.",Sentence
+"“DeepSeek has levelled the playing field,” said Stephen Yiu, chief investment officer of Blue Whale Growth, the investment fund backed by billionaire Peter Hargreaves, which last month reduced its exposure to the Magnificent Seven group of big US tech companies on concerns over their huge expenditure on AI.",Sentence
+"The biggest US tech companies “have had monopoly access to AI — the entry ticket price was in the billions of dollars, otherwise there was no chance you could challenge the status quo”, Yiu said.",Sentence
+"That made DeepSeek’s arrival a “very positive development for the adoption, development and penetration of AI”, he added.",Sentence
+"Short sellers, who have placed a flurry of bets against Nvidia’s sky-high share price in recent weeks, were jubilant on Monday.",Sentence
+"Nvidia’s 17 per cent share price decline generated $6.75bn in profits for short sellers, according to calculations by data group S3 Partners.",Sentence
+"“A Chinese entity put out open-sourced code right before earnings of all the big American tech companies,” said one short seller with interests in a number of large AI companies.",Sentence
+"“They’re telling you there’s no value [in those companies’ AI models], it’s commoditised.”
+
+However, some analysts have challenged the idea that DeepSeek’s breakthrough AI was so cheap to build.",Sentence
+"Dylan Patel of chip consultancy SemiAnalysis has estimated that DeepSeek and its sister company, the hedge fund High-Flyer, have access to tens of thousands of Nvidia GPUs, which were used to train R1’s predecessors.",Sentence
+"“DeepSeek has spent well over $500mn on GPUs over the history of the company,” Patel said.",Sentence
+"“While their training run was very efficient, it required significant experimentation and testing to work.”
+
+G Dan Hutcheson at TechInsights said the market reaction did not reflect who was most exposed to DeepSeek’s breakthrough.",Sentence
+"“I don’t see it as a big hit to Nvidia, I see it as a bigger problem for the companies like OpenAI that are trying to sell these services,” he said.",Sentence
+"Nvidia argued on Monday that DeepSeek’s innovations would benefit, not blow up, its business.",Sentence
+"“DeepSeek is an excellent AI advancement and a perfect example of Test Time Scaling,” Nvidia said, referring to AI systems that consume more computing resources after a user poses a question or sets a task by “reasoning” or taking multiple linked steps to respond.",Sentence
+"“Inference requires significant numbers of Nvidia GPUs and high-performance networking.”
+
+The implication of Nvidia’s statement is that by pushing the boundaries of what is possible with “open-source” AI models, DeepSeek has in fact grown demand for the chips that are used to run them.",Sentence
+"While Nvidia is best known for providing the chips that are used to “train” or build a new AI system, it has said that it now generates just as much revenue from chips for “inference” or processing user requests using a finished model.",Sentence
+Huang argued on a recent podcast that demand for inference “is about to go up by a billion times” due to new AI models that “reason” or take time to plan and deliver an answer to a complex query.,Sentence
+"“There are two uses for Nvidia chips, training and inference, and we’re just at the beginning of the inference story,” said Jordan Jacobs, co-founder of AI investor Radical Ventures, who bought more Nvidia shares on Monday as the chipmaker’s stock slumped 17 per cent.",Sentence
+“As we see the world shifting to AI it requires a huge upgrade in chips.,Sentence
+"The sell-off seems to be an overreaction and a lack of understanding.”
+
+“The market is not properly realising this is great for Nvidia,” said Dmitry Shevelenko, chief business officer at Perplexity, the San Francisco-based AI search start-up that counts the chipmaker among its investors.",Sentence
+"“No matter what, Jensen wins.”",Sentence
+"A Chinese company’s claim of a $5.6mn artificial intelligence breakthrough wiped almost $600bn from Nvidia’s market value on Monday, shattering Wall Street’s confidence that tech companies’ AI spending spree will continue and dealing an apparent blow to US tech leadership.",Paragraph
+"Yet many in Silicon Valley believe the broad sell-off is an overreaction to DeepSeek’s latest model, which they argue could spur wider adoption and utility of AI by radically lowering the technology’s cost, sustaining demand for Nvidia’s chips.",Paragraph
+"Pat Gelsinger, recently forced out as chief executive of Intel, was among those buying his former rival Nvidia’s stock on Monday. “The market reaction is wrong: lowering the cost of AI will expand the market,” he said in a LinkedIn post. “DeepSeek is an incredible piece of engineering that will usher in greater adoption of AI.”",Paragraph
+Nvidia became the world’s most valuable company last year as investors bet on Big Tech companies’ insatiable appetite for its powerful AI processors. The chipmaker’s chief executive Jensen Huang has predicted $1tn worth of AI data centres will be built in the next few years.,Paragraph
+"Underpinning that confidence was the concept of an AI “scaling law”, popularised by senior leaders at AI start-ups such as OpenAI and Anthropic, that suggested AI models got smarter as they were fed more data and computing resources.",Paragraph
+"DeepSeek’s release of its highly capable R1 model — and the research paper explaining openly how it was made — seemed to break the scaling law’s spell, as its chatbot leapt to the top of the iPhone’s US App Store chart over the weekend. The Philadelphia Semiconductor index shed 9.2 per cent, its worst daily drop since March 2020.",Paragraph
+"Chinese tech champion Huawei has emerged as Nvidia’s primary competitor in China for inference chips. The Financial Times has previously reported that it has been working with AI companies, including DeepSeek, to adapt models trained on Nvidia GPUs to run inference on its Ascend chips.",Paragraph
+"“Huawei is getting better. They have an opening as the government is telling the big tech companies that they need to buy their chips and use them for inference,” said one semiconductor investor in Beijing.",Paragraph
+"The announcement that triggered Monday’s stock market spasm over Nvidia came as the US moves to assert its leadership in AI over China, and as the biggest US tech companies prepare to report their latest earnings. US President Donald Trump said DeepSeek “should be a wake-up call for our industries that we need to be laser focused on competing to win”.",Paragraph
+"In December, DeepSeek released the V3 model, which it claimed was comparable to ones from OpenAI and Google, but trained it on a fraction of the budget with $5.6mn. The Chinese company said it used just 2,048 Nvidia chips, which could have been obtained without breaching US export controls that have throttled China’s access to US chipmakers’ latest products.",Paragraph
+"Then, last week, it unveiled its latest R1 model, a “reasoning model” that is comparable to OpenAI’s o1.",Paragraph
+"Further spooking investors, DeepSeek’s engineers were able to unlock greater performance by writing code without relying on Nvidia’s Cuda software platform, which is widely seen as crucial to the Silicon Valley chipmaker’s dominance of AI development.",Paragraph
+"“DeepSeek has levelled the playing field,” said Stephen Yiu, chief investment officer of Blue Whale Growth, the investment fund backed by billionaire Peter Hargreaves, which last month reduced its exposure to the Magnificent Seven group of big US tech companies on concerns over their huge expenditure on AI.",Paragraph
+"The biggest US tech companies “have had monopoly access to AI — the entry ticket price was in the billions of dollars, otherwise there was no chance you could challenge the status quo”, Yiu said. That made DeepSeek’s arrival a “very positive development for the adoption, development and penetration of AI”, he added.",Paragraph
+"Short sellers, who have placed a flurry of bets against Nvidia’s sky-high share price in recent weeks, were jubilant on Monday. Nvidia’s 17 per cent share price decline generated $6.75bn in profits for short sellers, according to calculations by data group S3 Partners.",Paragraph
+"“A Chinese entity put out open-sourced code right before earnings of all the big American tech companies,” said one short seller with interests in a number of large AI companies. “They’re telling you there’s no value [in those companies’ AI models], it’s commoditised.”",Paragraph
+"However, some analysts have challenged the idea that DeepSeek’s breakthrough AI was so cheap to build.",Paragraph
+"Dylan Patel of chip consultancy SemiAnalysis has estimated that DeepSeek and its sister company, the hedge fund High-Flyer, have access to tens of thousands of Nvidia GPUs, which were used to train R1’s predecessors.",Paragraph
+"“DeepSeek has spent well over $500mn on GPUs over the history of the company,” Patel said. “While their training run was very efficient, it required significant experimentation and testing to work.”",Paragraph
+"G Dan Hutcheson at TechInsights said the market reaction did not reflect who was most exposed to DeepSeek’s breakthrough. “I don’t see it as a big hit to Nvidia, I see it as a bigger problem for the companies like OpenAI that are trying to sell these services,” he said.",Paragraph
+"Nvidia argued on Monday that DeepSeek’s innovations would benefit, not blow up, its business.",Paragraph
+"“DeepSeek is an excellent AI advancement and a perfect example of Test Time Scaling,” Nvidia said, referring to AI systems that consume more computing resources after a user poses a question or sets a task by “reasoning” or taking multiple linked steps to respond. “Inference requires significant numbers of Nvidia GPUs and high-performance networking.”",Paragraph
+"The implication of Nvidia’s statement is that by pushing the boundaries of what is possible with “open-source” AI models, DeepSeek has in fact grown demand for the chips that are used to run them.",Paragraph
+"While Nvidia is best known for providing the chips that are used to “train” or build a new AI system, it has said that it now generates just as much revenue from chips for “inference” or processing user requests using a finished model.",Paragraph
+Huang argued on a recent podcast that demand for inference “is about to go up by a billion times” due to new AI models that “reason” or take time to plan and deliver an answer to a complex query.,Paragraph
+"“There are two uses for Nvidia chips, training and inference, and we’re just at the beginning of the inference story,” said Jordan Jacobs, co-founder of AI investor Radical Ventures, who bought more Nvidia shares on Monday as the chipmaker’s stock slumped 17 per cent. “As we see the world shifting to AI it requires a huge upgrade in chips. The sell-off seems to be an overreaction and a lack of understanding.”",Paragraph
+"“The market is not properly realising this is great for Nvidia,” said Dmitry Shevelenko, chief business officer at Perplexity, the San Francisco-based AI search start-up that counts the chipmaker among its investors. “No matter what, Jensen wins.”",Paragraph
